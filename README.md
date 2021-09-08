@@ -1,1 +1,1 @@
-# Tweet-Privacy-Policiy-Validator-
+# Tweet-Privacy-Policy-Validator-
